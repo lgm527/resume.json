@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Laurell McCaffrey",
+    "label": "Programmer",
+    "picture": "https://laurellmccaffrey.com/static/media/me.1d3a898a.jpeg",
+    "email": "laurellmccaffrey@gmail.com",
+    "phone": "(908) 304-8583",
+    "website": "http://laurellmccaffrey.com",
+    "summary": "Full stack software developer with a strong enthusiasm for art and connectivity. I discovered web development through working at an auction software company. I bring strong skills in research and writing that help foster team productivity and collaboration. If I’m not in front of a computer or piece of art, you can find me hiking or biking somewhere with more trees than people.",
+    "location": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "technicalSkills": {
+    "name": "Web Development",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Ruby on Rails",
+      "Ruby",
+      "SQL",
+      "PostgreSQL"
+    ]},
+    "profiles": [{
+    "network": "GitHub",
+    "username": "lgm527",
+    "url": "https://github.com/lgm527"
+    }, {
+    "network": "LinkedIn",
+    "username": "lgm527",
+    "url": "https://www.linkedin.com/in/lgm527/"
+    }, {
+    "network": "Medium",
+    "username": "lgm527",
+    "url": "https://medium.com/@lgm527"
+    }],
+  "work": [{
+    "company": "LiveAuctioneers",
+    "position": "Category Manager",
+    "website": "https://www.jasper52.com/",
+    "startDate": "2016-08",
+    "endDate": "2016-12",
+    "summary": "Organized 12-20 weekly curated auctions, wrote catalogs for each. Managed relationships with over 50 auction houses and art dealers, handled their inventory. Operated bidder concierge service by matching buyers to items they seek."
+  }, {
+    "company": "No Longer Empty",
+    "position": "Curatorial & Engagement Intern",
+    "website": "https://www.nolongerempty.org/",
+    "startDate": "2015-06",
+    "endDate": "2015-09",
+    "summary": "Curatorial research on artists, venues, and public programming. Managed social media accounts (Facebook, Twitter). Engagement with visitors and assisting with public programs at exhibitions."
+    }, {
+    "company": "The Center for Contemporary Art",
+    "position": "Curatorial Intern",
+    "website": "https://ccabedminster.org/",
+    "startDate": "2014-06",
+    "endDate": "2015-06",
+    "summary": "Curated contemporary realist exhibition with artist Mel Leipzig. Facilitated silent auction. Art handling, exhibition Installation and deinstallation."
+    }],
+  "volunteer": [{
+    "organization": "Fraunces Tavern Museum",
+    "position": "Docent",
+    "website": "http://organization.com/",
+    "startDate": "2016-12",
+    "endDate": "Present",
+    "summary": "Develop, lead, and engage visitors in the rich history of New York City during the Revolution."
+  }],
+  "education": [{
+    "institution": "Flatiron School",
+    "area": "Software Engineering Immersive Bootcamp",
+    "startDate": "2019-06",
+    "endDate": "2019-10",
+    "courses": [
+      "Javascript",
+      "React",
+      "Ruby on Rails",
+      "Ruby",
+      "HTML",
+      "CSS",
+      "PostgreSQL",
+      "SQL"
+    ]
+  }, {
+    "institution": "Rutgers University",
+    "areas": ["Art  History", "Psychology"],
+    "studyType": "Bachelor",
+    "startDate": "2012-09",
+    "endDate": "2016-05",
+    "gpa": "3.4",
+  }],
+  "awards": [{
+    "title": "Art History Graduation Ceremony Speaker",
+    "date": "2016-04",
+    "awarder": "Rutgers University",
+    "summary": "Shared how my majors in art (Art History) and science (Psychology) combined perfectly as an education."
+  }],
+  "skills": [{
+    "name": "Art History",
+    "keywords": [
+      "Communicaton",
+      "Research",
+      "Written Communicaton",
+      "Attention to Detail",
+      "Eye for Design",
+      "Organization",
+      "Storytelling"
+    ],
+    "name": "Psychology",
+    "keywords": [
+      "Communicaton",
+      "Empathy",
+      "Research",
+      "Written Communicaton",
+      "Statistics"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Hiking",
+    "keywords": [
+      "Parks",
+      "Trees"
+    ]
+}
