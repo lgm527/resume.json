@@ -15,14 +15,17 @@
     "technicalSkills": {
     "name": "Web Development",
     "keywords": [
-      "HTML",
-      "CSS",
       "Javascript",
       "React",
       "Ruby on Rails",
       "Ruby",
+      "Python",
       "SQL",
-      "PostgreSQL"
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "HTML",
+      "CSS",
     ]},
     "profiles": [{
     "network": "GitHub",
@@ -36,8 +39,23 @@
     "network": "Medium",
     "username": "lgm527",
     "url": "https://medium.com/@lgm527"
+    }, {
+    "network": "Glitch",
+    "username": "lgm527",
+    "url": "https://glitch.com/@lgm527"
+    }, {
+    "network": "Expo",
+    "username": "lgm527",
+    "url": "https://expo.io/@lgm527"
     }],
   "work": [{
+    "company": "The Muse",
+    "position": "Full Stack Engineer",
+    "website": "https://www.themuse.com/",
+    "startDate": "2020-02",
+    "endDate": "Present",
+    "summary": "Utilize technologies such as React, Django, Python, AWS, Postgres, and Docker. Implement new functionality while working on the frontend and backend systems. Collaborate with product managers, designers, and other engineers."
+  }, {
     "company": "LiveAuctioneers",
     "position": "Category Manager",
     "website": "https://www.jasper52.com/",
