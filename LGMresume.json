@@ -25,7 +25,7 @@
         "AWS",
         "Docker",
         "HTML",
-        "CSS",
+        "CSS"
       ]},
       "profiles": [{
         "network": "GitHub",
@@ -110,7 +110,7 @@
           "studyType": "Bachelor",
           "startDate": "2012-09",
           "endDate": "2016-05",
-          "gpa": "3.4",
+          "gpa": "3.4"
         }],        
         "awards": [{
           "title": "Art History Graduation Ceremony Speaker",
