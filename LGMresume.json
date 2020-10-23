@@ -82,11 +82,18 @@
           "summary": "Curated contemporary realist exhibition with artist Mel Leipzig. Facilitated silent auction. Art handling, exhibition Installation and deinstallation."
         }],
         "volunteer": [{
+          "organization": "Pods.nyc",
+          "position": "Full Stack Engineer",
+          "website": "https://www.pods.nyc/",
+          "startDate": "2020-8",
+          "endDate": "2020-9",
+          "summary": "Created the pods profile by utilizing React and Material-UI to replicate Figma designs."
+        },{
           "organization": "Fraunces Tavern Museum",
           "position": "Docent",
-          "website": "http://organization.com/",
+          "website": "https://www.frauncestavernmuseum.org/",
           "startDate": "2016-12",
-          "endDate": "Present",
+          "endDate": "2020-3",
           "summary": "Develop, lead, and engage visitors in the rich history of New York City during the Revolution."
         }],
         "education": [{
