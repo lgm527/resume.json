@@ -1,29 +1,31 @@
 {
   "basics": {
     "name": "Laurell McCaffrey",
-    "label": "Software Engineer",
+    "label": "Cloud Engineer",
     "picture": "https://laurellmccaffrey.com/static/media/me.1d3a898a.jpeg",
     "email": "laurellmccaffrey@gmail.com",
-    "phone": "(908) 304-8583",
     "website": "http://laurellmccaffrey.com",
-    "summary": "Full stack software developer with a strong enthusiasm for art and connectivity. I discovered web development through working at an auction software company. I bring strong skills in research and writing that help foster team productivity and collaboration. If I’m not in front of a computer or piece of art, you can find me outside hiking, biking or practicing yoga.",
+    "summary": "Cloud engineer with a strong enthusiasm for art and connectivity. I discovered software development through working at an auction software company. I bring strong skills in research and writing that help foster team productivity and collaboration. If I’m not in front of a computer or piece of art, you can find me outside hiking, biking or practicing yoga.",
     "location": {
-      "city": "New York",
+      "city": "Morristown",
       "countryCode": "US",
-      "region": "New York"
+      "region": "New Jersey"
     }},
     "technicalSkills": {
-      "name": "Web Development",
+      "name": "Software Development",
       "keywords": [
+        "TypeScript",
+        "AWS",
+        "Docker",
+        "Terraform",
         "Javascript",
         "React",
+        "React Native",
         "Ruby on Rails",
         "Ruby",
         "Python",
         "SQL",
         "PostgreSQL",
-        "AWS",
-        "Docker",
         "HTML",
         "CSS"
       ]},
@@ -52,7 +54,15 @@
         "username": "lgm527",
         "url": "https://expo.io/@lgm527"
         }],
-        "work": [{
+        "work": [
+          {
+            "company": "Foresight Technologies",
+            "position": "Cloud Engineer",
+            "website": "https://www.goforesight.com/",
+            "startDate": "2021-01",
+            "endDate": "Present",
+            "summary": "Design and Implement world-class solutions while providing a great client experience utilizing tools like AWS, Terraform, TypeScript, Python, and Docker"
+          }, {
           "company": "The Muse",
           "position": "Full Stack Engineer",
           "website": "https://www.themuse.com/",
@@ -81,20 +91,14 @@
           "endDate": "2015-06",
           "summary": "Curated contemporary realist exhibition with artist Mel Leipzig. Facilitated silent auction. Art handling, exhibition Installation and deinstallation."
         }],
-        "volunteer": [{
-          "organization": "Pods.nyc",
-          "position": "Full Stack Engineer",
-          "website": "https://www.pods.nyc/",
-          "startDate": "2020-8",
-          "endDate": "2020-9",
-          "summary": "Created the pods profile by utilizing React and Material-UI to replicate Figma designs."
-        },{
-          "organization": "Fraunces Tavern Museum",
-          "position": "Docent",
-          "website": "https://www.frauncestavernmuseum.org/",
-          "startDate": "2016-12",
-          "endDate": "2020-3",
-          "summary": "Develop, lead, and engage visitors in the rich history of New York City during the Revolution."
+        "certification": [{
+          "institution": "AWS Amazon Web Services",
+          "skill": "Developer",
+          "level": "Assocaite",
+          "id": "KL1HBKDBNE111CSL",
+          "validStartDate": "2021-12",
+          "validEndDate": "2024-12"
+
         }],
         "education": [{
           "institution": "Flatiron School",
@@ -144,6 +148,21 @@
             "Written Communicaton",
             "Statistics"
           ]
+        }],
+        "volunteer": [{
+          "organization": "Pods.nyc",
+          "position": "Full Stack Engineer",
+          "website": "https://www.pods.nyc/",
+          "startDate": "2020-8",
+          "endDate": "2020-9",
+          "summary": "Created the pods profile by utilizing React and Material-UI to replicate Figma designs."
+        },{
+          "organization": "Fraunces Tavern Museum",
+          "position": "Docent",
+          "website": "https://www.frauncestavernmuseum.org/",
+          "startDate": "2016-12",
+          "endDate": "2020-3",
+          "summary": "Develop, lead, and engage visitors in the rich history of New York City during the Revolution."
         }],
         "languages": [{
           "language": "English",
